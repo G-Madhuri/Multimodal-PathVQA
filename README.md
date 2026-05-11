@@ -196,54 +196,6 @@ PathVQA/
 
 ---
 
-# Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/PathVQA.git
-cd PathVQA
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# Running the Project
-
-## Method 1
-
-```bash
-cd Method1_FasterRCNN_GRU_BAN
-```
-
-Run notebooks in order.
-
----
-
-## Method 2
-
-```bash
-cd Method2_EfficientNet_BiLSTM
-```
-
-Run notebooks in order.
-
----
-
-## Method 3
-
-```bash
-cd Method3_ResNet_Attention
-```
-
-Run notebooks in order.
-
----
 
 # Results Summary
 
