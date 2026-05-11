@@ -1,9 +1,5 @@
 # PathVQA: Multimodal Visual Question Answering for Pathology Image Understanding
 
-<p align="center">
-  <img src="assets/banner.png" width="900">
-</p>
-
 ## Overview
 
 This repository contains the implementation, experiments, and analysis for our project:
